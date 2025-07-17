@@ -97,8 +97,6 @@ The project evaluates multiple machine learning models for cancer diagnosis pred
 - Add cross-validation to ensure robust model performance.
 - Include visualizations (e.g., correlation matrices, feature importance plots) to better understand the data.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For questions or contributions, please open an issue or submit a pull request on GitHub.
